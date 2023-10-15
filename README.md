@@ -1,2 +1,2 @@
-LINUX CLASS at INCHEON UNIVERSITY
-=================================
+Linux class - jiyun
+======================
